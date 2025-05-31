@@ -1,0 +1,8 @@
+# Build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Optional local VS Code settings
+.vscode/settings.json
