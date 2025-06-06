@@ -6,3 +6,6 @@
 
 # Optional local VS Code settings
 .vscode/settings.json
+
+# User-specific tasks
+tasks.json

@@ -13,7 +13,7 @@ Node(int val){
 }
 
 };
-Node* buildTree(Node* root){
+Node* buildTree(Node* root){   //building tree using recursion
        int val;
 cout<<"enter root node";
 cin>>val;
